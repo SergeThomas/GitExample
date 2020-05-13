@@ -8,3 +8,6 @@ milk
 snacks
 
 cereal
+radhish 
+pap
+sweets
